@@ -1,0 +1,48 @@
+.container {
+text-align: center;
+border: 5px outset black;
+margin: -9px;
+padding: 15px;
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 6%, rgba(4,57,65,1) 17%, rgba(16,84,83,1) 25%, rgba(9,121,121,1) 38%, rgba(81,226,255,1) 100%);
+}
+h1 {
+color:rgb(255, 255, 255);
+text-shadow: 3px 3px 3px rgb(0, 0, 0);  
+}
+.fack {
+border: 5px outset black;
+padding-bottom: 650px;
+    margin-right: 1300px;
+    margin-left: -8px;
+    margin-top: px;
+    text-align: left;
+    background: rgb(12,121,9);
+    background: linear-gradient(90deg, rgba(12,121,9,1) 0%, rgba(31,244,167,1) 39%, rgba(81,226,255,1) 100%);
+}
+
+p {
+font-size: 25px;   
+}
+.ggg {
+text-align: right;
+border: 5px outset rgb(0, 0, 0);
+padding-bottom: 650px;
+    margin-bottom: -40px;
+    margin-right: -9px;
+    margin-left: 1300px;
+    margin-top: -902px;
+background: rgb(59,224,67);
+background: linear-gradient(90deg, rgba(59,224,67,1) 0%, rgba(57,214,76,1) 34%, rgba(47,169,118,1) 52%, rgba(77,101,236,1) 73%, rgba(15,30,247,1) 99%);
+}
+.rar {
+border: 5px outset black;
+text-align: center ;
+padding-bottom: 650px ;
+    margin-left: 582px;
+    margin-right: 582px;
+    margin-top:-903px ;
+    background: rgb(77,101,236);
+background: linear-gradient(90deg, rgba(77,101,236,1) 0%, rgba(255,255,255,1) 29%, rgba(255,255,255,1) 43%, rgba(255,255,255,1) 57%, rgba(255,255,255,1) 70%, rgba(15,30,247,1) 100%);
+ 
+}
